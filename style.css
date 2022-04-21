@@ -180,12 +180,12 @@
 
 .photo1 img{
     float: left;
-    width: 506.3px;
+    width: 33.3%;
     height: 300px;
 }
 .photo2 img{
     float: left;
-    width: 506.3px;
+    width: 33.3%;
     height: 300px;
     
 }
@@ -236,6 +236,7 @@
     width: 600px;
     height: 50px;
 }
+
 .form textarea{
     width: 600px;
     height: 160;
